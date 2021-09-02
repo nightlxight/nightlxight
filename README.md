@@ -8,6 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <br>
+<br>
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/lr8ewvisvx9h6ve2lliadn7yw)
