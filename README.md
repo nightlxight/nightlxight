@@ -11,7 +11,7 @@
 <br>
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/lr8ewvisvx9h6ve2lliadn7yw)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/1C2PHl0cblBt4kxUWB7SwU?si=957d59e9242348af)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=nightlxight;discord+bot+maker)](https://git.io/typing-svg)
 <br>
