@@ -3,7 +3,7 @@
 - 🧠 Currently learning HTML, Javascript and CSS
 - 🤖 I make Discord bots
 - 🎉 Check out my **[best project here](https://github.com/nightlxight/discord-bots)** :)
-- 🍕 **moonlxight#0001** <-- Feel free to add me on Discord
+- 🍕 **moonlxight#8593** <-- Feel free to add me on Discord
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
