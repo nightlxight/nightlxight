@@ -15,7 +15,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=nightlxight;discord+bot+maker)](https://git.io/typing-svg)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nightlxight&theme=dark)](https://git.io/streak-stats)
 <br>
 [![nightlxight's github stats](https://github-readme-stats.vercel.app/api?username=nightlxight&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/nightlxight/github-readme-stats)
 <br>
