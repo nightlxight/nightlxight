@@ -8,8 +8,6 @@
 
 <br>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nightlxight&theme=night)](https://git.io/streak-stats)
-<br>
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/1C2PHl0cblBt4kxUWB7SwU?si=957d59e9242348af)
 <br>
