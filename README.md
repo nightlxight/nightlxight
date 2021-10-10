@@ -8,10 +8,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nightlxight&theme=default)](https://git.io/streak-stats)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=nightlxight;moonlxight)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=🍨+nightlxight+🍨;🍟+moonlxight+🍕)](https://git.io/typing-svg)
 
 
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+  
 
 ### 👨‍💻 Programming languages
 
@@ -24,3 +26,5 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
