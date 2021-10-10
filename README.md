@@ -6,6 +6,8 @@
 - 🎉 Check out my **[best project here](https://github.com/nightlxight/discord-bots)** :)
 - 🍕 **moonlxight#8593** <-- Feel free to add me on Discord
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 <br>
   
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
