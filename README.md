@@ -7,9 +7,10 @@
 - 🍕 **moonlxight#8593** <-- Feel free to add me on Discord
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nightlxight&theme=default)](https://git.io/streak-stats)
-
-<br>
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=nightlxight;moonlxight)](https://git.io/typing-svg)
+
+
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 ### 👨‍💻 Programming languages
